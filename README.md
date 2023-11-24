@@ -1,1 +1,1 @@
-# CMP3751M-Machine Learning
+# Repo for all machine learning workshops and assignments
